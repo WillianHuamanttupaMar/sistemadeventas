@@ -8,6 +8,7 @@
     <class>pe.edu.upeu.model.Users</class>
     <class>pe.edu.upeu.model.DetalleFactura</class>
     <class>pe.edu.upeu.model.Products</class>
+    <class>DetalleFacturaImpl.DetalleFacturaImpl</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/ventas?zeroDateTimeBehavior=convertToNull"/>
